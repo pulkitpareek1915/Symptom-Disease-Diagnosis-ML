@@ -134,4 +134,4 @@ Update the `pd.read_csv(...)` path in the first cells to point to your local `da
 
 ## Author
 
-[Your Name], The LNM Institute of Information Technology, Jaipur
+[Pulkit Pareek], The LNM Institute of Information Technology, Jaipur
